@@ -2,11 +2,12 @@
 
 Installation
 ```
+composer require shopid/idpay
 
 ```
 on virgool.io :
 
-
+https://virgool.io/@shopid/%D8%AF%D8%B1%DA%AF%D8%A7%D9%87-%D9%BE%D8%B1%D8%AF%D8%A7%D8%AE%D8%AA-%D8%A2%DB%8C%D8%AF%DB%8C-%D9%BE%DB%8C-idpay-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%84%D8%A7%D8%B1%D8%A7%D9%88%D9%84-nmdekqgqmtad
 
 ```php
 <?php
