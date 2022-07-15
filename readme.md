@@ -17,7 +17,7 @@ $idpay = new idPay(["apiKey"=>"6a7f99eb-7c20-4412-a972-6dfb7cd253a4","sandbox"=>
 //make a request
 
 try {
-$req = $x->apiRequest([
+$req = $idpay->apiRequest([
 
 	    "order_id" => "1123",
             "amount" => 2000,
